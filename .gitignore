@@ -368,3 +368,8 @@ data/data-train/
 
 # this gets generated locally
 data/data.txt
+
+# idfk what this is
+/nul
+
+/.claude

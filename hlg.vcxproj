@@ -140,6 +140,7 @@
     <None Include=".gitignore" />
     <None Include="a.md" />
     <None Include="data\get_data.sh" />
+    <None Include="label.py" />
     <None Include="readme.md" />
   </ItemGroup>
   <ItemGroup>
