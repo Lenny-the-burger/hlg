@@ -140,8 +140,11 @@
     <None Include=".gitignore" />
     <None Include="a.md" />
     <None Include="data\get_data.sh" />
-    <None Include="label.py" />
     <None Include="readme.md" />
+    <None Include="scripts\clean_emb.py" />
+    <None Include="scripts\combine_files.py" />
+    <None Include="scripts\label.py" />
+    <None Include="scripts\process_docs.py" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="hlg.h" />

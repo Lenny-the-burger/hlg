@@ -32,7 +32,18 @@
     </None>
     <None Include=".gitignore" />
     <None Include="readme.md" />
-    <None Include="label.py" />
+    <None Include="scripts\label.py">
+      <Filter>Scripts</Filter>
+    </None>
+    <None Include="scripts\clean_emb.py">
+      <Filter>Scripts</Filter>
+    </None>
+    <None Include="scripts\process_docs.py">
+      <Filter>Scripts</Filter>
+    </None>
+    <None Include="scripts\combine_files.py">
+      <Filter>Scripts</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="hlg.h">
